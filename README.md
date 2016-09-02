@@ -1,1 +1,3 @@
-A repo to store tutorials from my blog: <a href="http://blog.glaucocustodio.com">blog.glaucocustodio.com</a>
+### PHP -> PDO -> SQLite
+
+Um fork de: <a href="http://blog.glaucocustodio.com">blog.glaucocustodio.com</a>
